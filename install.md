@@ -9,3 +9,7 @@ key
 https://api.wordpress.org/secret-key/1.1/salt/
 
 
+
+openssl rand -base64 64
+
+Ny6bLvblaI+SBwcQnf5ZJZGdxFN0Yq8VxOWortQDd1+LlYHQ2lT1tOLyxw38CYT064M6aOfPEJLK8Ri5I6d89A==
